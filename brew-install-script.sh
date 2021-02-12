@@ -16,6 +16,9 @@ brew update
 # Dev Tools
 brew install visual-studio-code
 brew install sublime-text
+brew install iterm2
+brew install htop
+brew install neofetch
 
 # Communication Apps
 brew install discord
