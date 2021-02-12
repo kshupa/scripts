@@ -26,6 +26,7 @@ brew install discord
 # Web Tools
 brew install private-internet-access
 brew install brave-browser
+brew install webcatalog
 
 # File Storage
 brew install dropbox
